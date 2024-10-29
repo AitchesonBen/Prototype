@@ -1,0 +1,30 @@
+{
+  "2024-10-28": {
+    "Monday-10:00": "Python Programming",
+    "Monday-14:00": "Data Structures & Algorithms",
+    "Tuesday-12:00": "Cloud Computing Basics",
+    "Wednesday-16:00": "Cybersecurity 101",
+    "Friday-18:00": "Introduction to DevOps"
+  },
+  "2024-11-04": {
+    "Monday-8:00": "Linux System Administration",
+    "Thursday-10:00": "Database Management (SQL)",
+    "Friday-16:00": "React Native Workshop",
+    "Saturday-8:00": "Intro to Blockchain",
+    "Sunday-12:00": "Networking Fundamentals"
+  },
+  "2024-11-11": {
+    "Tuesday-14:00": "Machine Learning Basics",
+    "Wednesday-12:00": "AI Ethics Seminar",
+    "Thursday-8:00": "Kubernetes Crash Course",
+    "Saturday-10:00": "Intro to Git & GitHub",
+    "Sunday-18:00": "Project Presentation Skills"
+  },
+  "2024-11-18": {
+    "Monday-12:00": "JavaScript Deep Dive",
+    "Wednesday-18:00": "Software Architecture Patterns",
+    "Thursday-16:00": "Agile Methodology",
+    "Friday-10:00": "Docker Hands-on Lab",
+    "Sunday-8:00": "Web Security Essentials"
+  }
+}
